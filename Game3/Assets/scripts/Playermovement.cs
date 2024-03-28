@@ -40,7 +40,7 @@ public class Playermovement : MonoBehaviour
         }
 
         // getting the inputs
-        float x = Input.GetAxis("horizontal");
+        float x = Input.GetAxis("Horizontal");
         float z = Input.GetAxis("Vertical");
 
         //creating the moving vector
