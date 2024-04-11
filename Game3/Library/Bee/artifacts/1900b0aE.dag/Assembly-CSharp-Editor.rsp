@@ -374,6 +374,7 @@
 "Assets/ALP_Assets/Big Oak Tree FREE/Core/Scripts/Global Lighting/Editor/ALP8310_LightsSettings.cs"
 "Assets/ALP_Assets/Big Oak Tree FREE/Core/Scripts/GUI/Editor/ALP8310_ShaderDrawers.cs"
 "Assets/ALP_Assets/Big Oak Tree FREE/Core/Scripts/GUI/Editor/ALP8310_ShaderGUI.cs"
+"Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs"
 -langversion:9.0
 
 /deterministic
